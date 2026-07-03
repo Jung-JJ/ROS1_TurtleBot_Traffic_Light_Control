@@ -58,8 +58,8 @@ RGB-D Camera를 이용하여 신호등의 색상과 거리를 인식하고, Odom
 # Demo
 
 
-**Demo Video**
-[Watch on YouTube](https://youtube.com/shorts/DPB7Bxb3I90?feature=share)
+**Demo Video(YouTube Shorts)**
+[Watch on YouTube](https://youtube.com/shorts/TEjBKijAv0M?feature=share)
 
 ---
 
