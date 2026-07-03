@@ -55,6 +55,14 @@ RGB-D Camera를 이용하여 신호등의 색상과 거리를 인식하고, Odom
 
 ---
 
+# Demo
+
+
+**Demo Video**
+[Watch on YouTube](https://youtube.com/shorts/DPB7Bxb3I90?feature=share)
+
+---
+
 # ROS Topic 구성
 
 ## Subscribe
@@ -184,8 +192,8 @@ RGB-D Camera를 이용하여 신호등의 색상과 거리를 인식하고, Odom
 - Odometry 기반 P Feedback Control 구현
 - State Machine 기반 미션 로직 구현
 - ROS Publisher / Subscriber 구성
-- 영상처리 코드 구현 및 HSV Threshold 튜닝
-- 실제 환경에서 시스템 디버깅
+- 영상처리 코드 분석 및 HSV Threshold 튜닝
+- 실제 환경에서 시스템 통합 및 디버깅
 
 ---
 
